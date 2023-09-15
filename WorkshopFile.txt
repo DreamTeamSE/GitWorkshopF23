@@ -1,4 +1,5 @@
 Enter Your Name Below:
 Jane Doe
 Annie Michel
+Amanda Smith
 Jack Wardlaw
